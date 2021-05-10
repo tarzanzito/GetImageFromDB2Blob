@@ -1,0 +1,14 @@
+Install Java FX
+---------------
+
+Eclipse
+Menu -> Help -> Install New Software
+
+http://download.eclipse.org/efxclipse/updates-released/2.3.0/site
+http://download.eclipse.org/efxclipse/updates-released/2.4.0/site
+                                                       2.5.0 --- exist by i cannot find
+                                                       3.0.0 --- exist by i cannot find
+
+Name : e(fx)clipse
+
+

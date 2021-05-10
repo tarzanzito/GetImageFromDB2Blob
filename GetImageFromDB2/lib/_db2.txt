@@ -1,0 +1,7 @@
+project -> properties -> Java Build Path
+
+Add External JARs....
+
+Sequence
+1 - jdbc_sqlj   (add all jars)
+2 - db2 (add all jars)

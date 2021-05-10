@@ -1,0 +1,21 @@
+
+Download SceneBuilder
+
+Site: Gluon
+------
+
+http://gluonhq.com/labs/scene-builder/#download
+
+Jar - run in stand alone mode
+exe - can run associate to the eclipse
+
+
+Associate to Eclipse
+-------
+Menu -> Preferences
+JavaFx -> SceneBuilder Executable: put fullPathFileName (SceneBuilder.exe)
+
+
+
+Note:
+To open *.fxml files right click on file and choose : "Open With SceneBuilder"

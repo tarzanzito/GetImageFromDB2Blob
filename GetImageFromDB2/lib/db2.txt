@@ -1,0 +1,1 @@
+db2 folder Copied  from C:\Applics\Jcompiler\DbVisualizer-8.0.3\jdbc\db2
